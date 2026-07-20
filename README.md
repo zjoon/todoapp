@@ -18,5 +18,3 @@ A simple and interactive todo list application.
 1. Download the files
 2. Open `index.html` in browser
 3. Start adding your tasks
-
-## Project Structure
